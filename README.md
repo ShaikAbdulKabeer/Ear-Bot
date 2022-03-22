@@ -1,2 +1,2 @@
 # Ear-Bot
-This website is built using HTML, CSS, JS, BOOTSTRAP
+This website is built using HTML, CSS, BOOTSTRAP
